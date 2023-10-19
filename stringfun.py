@@ -11,4 +11,7 @@ print(b.isalnum()) # to check variable contain alphabets and number without spac
 
 print(chr(65))   # to convert numeric value to ASCII value
 print(ord("A"))   # to convert ASCII value to numeric value
-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
+print("Welcome to {} python {}".format("your","tut"))   
+print("Welcome to {1} python {0}".format("your","tut"))
+print("Welcome to {first} python {second}".format(first = "your",second = "tut"))      
+
