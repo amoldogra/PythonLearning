@@ -12,5 +12,5 @@ l.reverse()                     #reverse func.
 print(l)                      
 
 g =[22,33,44,33,55,77]
-print(g.index(33,2,4))          #index func.  - syn - index(elemrnt, start_index, end_index) -  if element is repeated in lits
+print(g.index(33,2,4))          #index func.  - syn - index(elemrnt, start_index, end_index) -  if element is repeated in list
 print(g.index(33))
