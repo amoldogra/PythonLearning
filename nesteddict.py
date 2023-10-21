@@ -6,6 +6,8 @@ course = {
 
 print(course)
 print(course["php"]["fees"])
+course["java"]["fees"] = 50000
+print(course)
 
 for a,v in course.items():
     print(a,v)
