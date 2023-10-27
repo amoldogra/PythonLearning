@@ -3,15 +3,15 @@ class BikeShop:
         self.stock = stock
     def displayBikes(self):
         print("Total bikes:-",self.stock)
-    def rentForBike(self,r):
+    def rentForBike(self,need):
 
-        if r<0:
+        if need<0:
             print("Enter the +ve value and greater than zero")
-        elif r>self.stock:
+        elif need>self.stock:
             print("Enter the value less than stock")
         else:
-            print("Total price:-",r*100)
-            self.stock = self.stock-r
+            print("Total price:-",need*100)
+            self.stock = self.stock-need
             print("Total Bikes remaining:-",self.stock)
 
 while True:
