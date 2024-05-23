@@ -1,0 +1,3 @@
+len(obj1, obj2)  - if  "obj" is under function or called inside function - this is know as a function
+ 
+obj.lower() - if anything calls function like this - represented as a method - obj.funtion() - this is method
