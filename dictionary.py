@@ -6,7 +6,7 @@ d = {
 print(d)
 print(type(d))
 
-print(d["time"])
+print(d["name"])
 print(d["language"])
 print(d["name"])
 

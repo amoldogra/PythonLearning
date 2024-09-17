@@ -1,0 +1,17 @@
+fruits = []
+f1 = input("ENter fruit Name: ")
+fruits.append(f1)
+f1 = input("ENter fruit Name: ")
+fruits.append(f1)
+f1 = input("ENter fruit Name: ")
+fruits.append(f1)
+f1 = input("ENter fruit Name: ")
+fruits.append(f1)
+f1 = input("ENter fruit Name: ")
+fruits.append(f1)
+f1 = input("ENter fruit Name: ")
+fruits.append(f1)
+f1 = input("ENter fruit Name: ")
+fruits.append(f1)
+
+print (fruits)

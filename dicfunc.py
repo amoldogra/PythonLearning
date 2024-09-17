@@ -1,4 +1,4 @@
-from distro import name
+import dict from names
 
 
 d ={
